@@ -1,4 +1,10 @@
-Just another notes for the thinker :)
+
+
+<?php
+
+echo "Just another notes for the thinker :)";
+
+?>
 
 <script>
   if (location.protocol != 'https:')
