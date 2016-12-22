@@ -1,0 +1,10 @@
+---
+contentDir: "content"
+layoutDir: "layouts"
+publishDir: "public"
+indexes:
+  category: "categories"
+baseURL: "http://fai.neosis.io"
+title: "Just another notes for the thinker"
+canonifyURLs: true
+...
